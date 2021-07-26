@@ -39,7 +39,7 @@ namespace SeleniumCShartNetCore
             //CustomControl control = new CustomControl();
             CustomControl.ComboBox(comboControlName, "Almond");
 
-            Console.WriteLine("Test1");
+            Console.WriteLine("Test");
             Assert.Pass("Passed");
         }
     }
