@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navob\\source\\repos\\SeleniumCShartNetCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj": {}
+    "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navob\\source\\repos\\SeleniumCShartNetCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj": {
+    "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navob\\source\\repos\\SeleniumCShartNetCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
         "projectName": "SeleniumCShartNetCore",
-        "projectPath": "C:\\Users\\navob\\source\\repos\\SeleniumCShartNetCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
+        "projectPath": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
         "packagesPath": "C:\\Users\\navob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navob\\source\\repos\\SeleniumCShartNetCore\\SeleniumCShartNetCore\\obj\\",
+        "outputPath": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navob\\AppData\\Roaming\\NuGet\\NuGet.Config",
