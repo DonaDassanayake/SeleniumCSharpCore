@@ -6784,11 +6784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\navob\\Source\\Repos\\DonaDassanayake\\SeleniumCSharpCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
       "projectName": "SeleniumCShartNetCore",
-      "projectPath": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
+      "projectPath": "C:\\Users\\navob\\Source\\Repos\\DonaDassanayake\\SeleniumCSharpCore\\SeleniumCShartNetCore\\SeleniumCShartNetCore.csproj",
       "packagesPath": "C:\\Users\\navob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navob\\OneDrive\\Documents\\GitHub\\SeleniumCShartCore\\SeleniumCShartNetCore\\obj\\",
+      "outputPath": "C:\\Users\\navob\\Source\\Repos\\DonaDassanayake\\SeleniumCSharpCore\\SeleniumCShartNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navob\\AppData\\Roaming\\NuGet\\NuGet.Config",

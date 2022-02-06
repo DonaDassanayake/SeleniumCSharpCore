@@ -13,7 +13,12 @@ namespace SeleniumCShartNetCore
         public void Setup()
         {
             Console.WriteLine("Setup");
-            Driver = new ChromeDriver();
+           // Driver = new ChromeDriver();
+
+            //Headless Browser
+            ChromeOptions option = new ChromeOptions();
+            option.AddArgument("--headless");
+            Driver = new ChromeDriver(option);
         }
 
         [Test]

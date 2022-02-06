@@ -8,5 +8,7 @@ namespace SeleniumCShartNetCore
     public class DriverHelper
     {
         public static IWebDriver Driver { get; set; }
+
+
     }
 }
